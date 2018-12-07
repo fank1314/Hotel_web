@@ -16,7 +16,7 @@
 </ul>
 <h1>说明</h1>
 <ul>
-<li><p>本项目在Github上的地址:  https://github.com/fank1314/Nitrohe_blog-Article</p></li>
+<li><p>本项目在Github上的地址:  https://github.com/fank1314/Hotel_web </p></li>
     <li><p>本项目作者：<a href="#">LeeSlow Fank</a></p></li>
 </ul>
 <h3>项目截图</h3>
