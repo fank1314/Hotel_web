@@ -22,5 +22,5 @@
 <h3>项目截图</h3>
     <p>这是一个相对于比较完整的酒店预订的案例，可以学习以鉴之。。。。 </p>
     <h4>用户登录界面：</h4>
-    <img src=""   style="max-width:100%;">
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/login.png"   style="max-width:100%;">
    
