@@ -25,4 +25,17 @@
     <img src="https://github.com/fank1314/Hotel_web/blob/master/login.png"   style="max-width:100%;">
      <h4>后台界面：</h4>
     <img src="https://github.com/fank1314/Hotel_web/blob/master/admin.png"   style="max-width:100%;">   
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/admin-photomod.png"   style="max-width:100%;">   
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/admin-photo.png"   style="max-width:100%;">  
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/checkout.png"   style="max-width:100%;"> 
+   <img src="https://github.com/fank1314/Hotel_web/blob/master/checkout-finish.png"   style="max-width:100%;">    
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/count.png"   style="max-width:100%;">  
+     <img src="https://github.com/fank1314/Hotel_web/blob/master/order.png"   style="max-width:100%;">     
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/order-num.png"   style="max-width:100%;">   
+
+    
+    
+    
+    
+    
     
