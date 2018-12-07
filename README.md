@@ -32,10 +32,12 @@
     <img src="https://github.com/fank1314/Hotel_web/blob/master/count.png"   style="max-width:100%;">  
      <img src="https://github.com/fank1314/Hotel_web/blob/master/order.png"   style="max-width:100%;">     
     <img src="https://github.com/fank1314/Hotel_web/blob/master/order-num.png"   style="max-width:100%;">   
-
+     <h4>前台首页：</h4>
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/index.png"   style="max-width:100%;">        
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/index2.png"   style="max-width:100%;">    
+     <img src="https://github.com/fank1314/Hotel_web/blob/master/online-reserve.png"   style="max-width:100%;">        
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us.png"   style="max-width:100%;">       
+   
     
     
-    
-    
-    
-    
+  
