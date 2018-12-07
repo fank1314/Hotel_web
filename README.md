@@ -23,4 +23,6 @@
     <p>这是一个相对于比较完整的酒店预订的案例，可以学习以鉴之。。。。 </p>
     <h4>用户登录界面：</h4>
     <img src="https://github.com/fank1314/Hotel_web/blob/master/login.png"   style="max-width:100%;">
-   
+     <h4>后台界面：</h4>
+    <img src="https://github.com/fank1314/Hotel_web/blob/master/admin.png"   style="max-width:100%;">   
+    
