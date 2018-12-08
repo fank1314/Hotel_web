@@ -1,5 +1,5 @@
 # Nitrohe_hotel
-这是Nitrohe_hotel酒店预订的版本
+这是Nitrohe_hotel酒店预订的版本 试试看喽
 # 关于我
 采用原生PHP开发 前端:Bootstrap框架
 # 联系我
@@ -36,7 +36,6 @@
     <img src="https://github.com/fank1314/Hotel_web/blob/master/index.png"   style="max-width:100%;">        
     <img src="https://github.com/fank1314/Hotel_web/blob/master/index2.png"   style="max-width:100%;">    
      <img src="https://github.com/fank1314/Hotel_web/blob/master/online-reserve.png"   style="max-width:100%;">  
-     <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us2.png"   style="max-width:100%;"> 
     <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us.png"   style="max-width:100%;">       
    
     
