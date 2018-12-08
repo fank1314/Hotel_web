@@ -35,7 +35,8 @@
      <h4>前台首页：</h4>
     <img src="https://github.com/fank1314/Hotel_web/blob/master/index.png"   style="max-width:100%;">        
     <img src="https://github.com/fank1314/Hotel_web/blob/master/index2.png"   style="max-width:100%;">    
-     <img src="https://github.com/fank1314/Hotel_web/blob/master/online-reserve.png"   style="max-width:100%;">        
+     <img src="https://github.com/fank1314/Hotel_web/blob/master/online-reserve.png"   style="max-width:100%;">  
+     <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us2.png"   style="max-width:100%;"> 
     <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us.png"   style="max-width:100%;">       
    
     
