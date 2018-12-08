@@ -1,5 +1,5 @@
-# Hotel_web
-这是Hotel_web酒店预订的版本
+# Nitrohe_hotel
+这是Nitrohe_hotel酒店预订的版本
 # 关于我
 采用原生PHP开发 前端:Bootstrap框架
 # 联系我
