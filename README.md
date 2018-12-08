@@ -40,5 +40,5 @@
     <img src="https://github.com/fank1314/Hotel_web/blob/master/contact-us.png"   style="max-width:100%;">       
    
     
-    
+  
  
